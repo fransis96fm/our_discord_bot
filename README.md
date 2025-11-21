@@ -1,11 +1,11 @@
 # Our Discord Bot
 
 <pre font="arial">
-  <h2>👋 Selamat datang di rapo kami. </h2>
-  Disini kami membuat dan mengembangkan bot discord bersama.
+  👋 Selamat datang di rapo kami.  
+  Disini kami membuat dan mengembangkan bot discord bersama.  
 </pre>
 
-<p font-size=20>Teks dengan ukuran kustom</p>
+> _Fransis96_
 
 ### Bot List:
 
